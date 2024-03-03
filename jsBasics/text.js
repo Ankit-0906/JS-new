@@ -1,0 +1,1 @@
+console.log("In this section we learn a new version of js");
